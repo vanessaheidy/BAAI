@@ -1,7 +1,7 @@
 #
 # Heidy, 2025/09/24
 # File: 0_template.py
-# Short description of the task
+# Add two numbers the print
 #
 
 # 1. Input
